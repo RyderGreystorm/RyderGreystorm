@@ -1,15 +1,18 @@
-# 👋 Hello, I'm Godbless Biekro!
-
-Welcome to my GitHub profile! I’m a passionate **DevOps Engineer** skilled in various tools and programming languages. 
-
----
 ## 🎥 The DevOps Fetish
 
 <div align="right">
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif" alt="Coding Animation" width="500"/>
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif" alt="Coding Animation"/>
 </div>
 
 ---
+
+# 👋 Hello, I'm Godbless Biekro!
+
+I am a DevOps Engineer with hands-on expertise in cloud infrastructure, CI/CD, and automation. With experience in tools like Ansible, Docker, Kubernetes, and Terraform, I’ve led 27+ deployments and streamlined processes to boost efficiency by over 25%. Currently, I’m pursuing a Master’s in Computer Systems Technology at Eastern Illinois University, where my research focuses on cloud cost reduction and resource optimization. Please reach out to me using my contact details at the bottom of the page 👇 
+
+
+---
+
 
 ## ☁️ Cloud Providers
 
