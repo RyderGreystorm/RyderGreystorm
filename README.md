@@ -41,7 +41,6 @@ Feel free to reach out via:
 
 - [LinkedIn](https://www.linkedin.com/in/godbless-biekro-2289261ba/)
 - [Medium](https://medium.com/@biekrogodbless)
-- Call: +1-217-790-5884
 - Email: biekrogodbless@gmail.com
 
 ---
