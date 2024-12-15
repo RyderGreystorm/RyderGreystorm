@@ -16,7 +16,7 @@ I am a DevOps Engineer with hands-on expertise in cloud infrastructure, CI/CD, a
 
 ## ☁️ Cloud Providers
 
-<img src="https://camo.githubusercontent.com/1111a567845d1e3a17531ac65f11ad122a6b0b8ce41ce62f896de03f3b8aaec6/68747470733a2f2f7777772e6c6f676967726f75702e636f6d2f696d616765732f4c6f676f5f6177732e676966" width="100" alt="AWS GIF" />  <img src="https://media.licdn.com/dms/image/v2/C4E22AQFu925OieqGiQ/feedshare-shrink_800/feedshare-shrink_800/0/1674494728322?e=1733356800&v=beta&t=CQkocXhQ32-Jp1IVWYbYfOj85hcggJEyjQxwrn6ok8k" width="100" alt="GCP GIF" /> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJndjk1OTgzYTV0MDlkaW43MDZnb3hxMzZhbGtjem40dDhoMmplOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lSUmZQb1HsIHj6kVX/giphy.webp" width="100" alt="Azure GIF" />
+<img src="https://camo.githubusercontent.com/1111a567845d1e3a17531ac65f11ad122a6b0b8ce41ce62f896de03f3b8aaec6/68747470733a2f2f7777772e6c6f676967726f75702e636f6d2f696d616765732f4c6f676f5f6177732e676966" width="100" alt="AWS GIF" />                    <img src="https://thectoadvisor.com/wp-content/uploads/2022/12/Google-Cloud-Logo.png" width="200" alt="GCP GIF" />                   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJndjk1OTgzYTV0MDlkaW43MDZnb3hxMzZhbGtjem40dDhoMmplOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lSUmZQb1HsIHj6kVX/giphy.webp" width="100" alt="Azure GIF" />
 
 ---
 
